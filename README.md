@@ -65,7 +65,8 @@ You can test the model live using the link below:
 👉 **[Hugging Face Space Live Link](https://huggingface.co/spaces/zahidmiana/DocumentTOMarkdown)**
 
 > **Live Dashboard Preview:**
-<img width="640" height="349" alt="Gradio Dashboard Output" src="https://github.com/user-attachments/assets/6cec1ebe-1ef5-4a6c-aeec-Special6cec1ebe" />
+
+<img width="640" height="349" alt="GradioDashboaredOutput" src="https://github.com/user-attachments/assets/4d091a4b-73a6-488e-a04b-7baa935472f2" />
 
 ---
 
